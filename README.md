@@ -8,6 +8,6 @@ Anggota Kelompok
 
 |NAMA|NIM|
 | --- | --- |
-|Pandu Satria|232410103008|
-
+|Pandu Satria    |232410103008|
+|Nandana Aji N.R.|232410103013|
 
